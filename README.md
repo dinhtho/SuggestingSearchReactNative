@@ -3,7 +3,7 @@
 <img src="https://github.com/dinhtho/SuggestingSearchReactNative/blob/master/image.png" width="500"/>
 
 # Install Dependecies
-npm i react-native-autocomplete-input
+ `npm i react-native-autocomplete-input`
 
 
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
